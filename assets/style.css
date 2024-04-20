@@ -675,13 +675,13 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-  background-image: url('./images/ies.jpg');
+  background-image: url('../images/ies.png');
 }
 .card[for="c2"] {
-  background-image: url('./images/inhs2.jpg');
+  background-image: url('../images/inhs2.png');
 }
 .card[for="c3"] {
-  background-image: url('./images/ustp-cdo.jpg');
+  background-image: url('../images/ustp-cdo.png');
 }
 .contact{
   background-color: var(--bg-color);
